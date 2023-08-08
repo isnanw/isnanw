@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Halo, saya [Nama Anda], 
+Seorang Developer Website dengan hasrat untuk menciptakan solusi teknologi yang komprehensif. Dari tampilan depan hingga logika belakang, saya bermain di berbagai aspek pengembangan.
 
-<!--
-**isnanw/isnanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Keahlian
 
-Here are some ideas to get you started:
+- 💻 **Frontend Development**: Mendesain antarmuka pengguna yang menarik dengan HTML, CSS, dan JavaScript. Saya terbiasa dengan kerangka kerja seperti React untuk menciptakan tampilan yang dinamis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ **Backend Magic**: Membangun logika aplikasi dengan bahasa seperti Python dan Node.js. Saya memiliki pengalaman dalam merancang API dan mengelola basis data.
+
+- 🌐 **Fullstack Wizardry**: Menggabungkan keahlian frontend dan backend untuk menciptakan aplikasi web lengkap yang responsif dan kuat.
+
+
+## Hubungi Saya
+
+Jika Anda ingin berbicara tentang proyek, teknologi, atau kesempatan kerja sama, saya tersedia di :open_mailbox_with_raised_flag: [isnanwahyudi4@gmail.com](mailto:isnanwahyudi4@gmail.com).
+
+Terima kasih telah mampir ke profil saya!
