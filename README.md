@@ -12,6 +12,6 @@ Seorang Developer Website dengan hasrat untuk menciptakan solusi teknologi yang 
 
 ## Hubungi Saya
 
-Jika Anda ingin berbicara tentang proyek, teknologi, atau kesempatan kerja sama, saya tersedia di :open_mailbox_with_raised_flag: [isnanwahyudi4@gmail.com](mailto:isnanwahyudi4@gmail.com).
+Jika Anda ingin berbicara tentang proyek, teknologi, atau kesempatan kerja sama, saya tersedia di 📬 [isnanwahyudi4@gmail.com](mailto:isnanwahyudi4@gmail.com).
 
 Terima kasih telah mampir ke profil saya!
