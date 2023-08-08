@@ -5,7 +5,7 @@ Seorang Developer Website dengan hasrat untuk menciptakan solusi teknologi yang 
 
 - 💻 **Frontend Development**: Mendesain antarmuka pengguna yang menarik dengan HTML, CSS, dan JavaScript. Saya terbiasa dengan kerangka kerja seperti React untuk menciptakan tampilan yang dinamis.
 
-- ⚙️ **Backend Magic**: Membangun logika aplikasi dengan bahasa seperti Python dan Node.js. Saya memiliki pengalaman dalam merancang API dan mengelola basis data.
+- ⚙️ **Backend Magic**: Membangun logika aplikasi dengan bahasa seperti PHP. Saya memiliki pengalaman dalam merancang API dan mengelola basis data.
 
 - 🌐 **Fullstack Wizardry**: Menggabungkan keahlian frontend dan backend untuk menciptakan aplikasi web lengkap yang responsif dan kuat.
 
