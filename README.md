@@ -3,7 +3,7 @@ Seorang Developer Website dengan hasrat untuk menciptakan solusi teknologi yang 
 
 ## Keahlian
 
-- 💻 **Frontend Development**: Mendesain antarmuka pengguna yang menarik dengan HTML, CSS, dan JavaScript. Saya terbiasa dengan kerangka kerja seperti React untuk menciptakan tampilan yang dinamis.
+- 💻 **Frontend Development**: Mendesain antarmuka pengguna yang menarik dengan HTML, CSS, dan JavaScript. Saya terbiasa dengan kerangka kerja seperti Bootstrap untuk menciptakan tampilan yang menarik.
 
 - ⚙️ **Backend Magic**: Membangun logika aplikasi dengan bahasa seperti PHP. Saya memiliki pengalaman dalam merancang API dan mengelola basis data.
 
